@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "st",
-    "description": "api documentation for [st (v1.2.0)](https://github.com/isaacs/st#readme) [![npm package](https://img.shields.io/npm/v/npmdoc-st.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-st) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-st.svg)](https://travis-ci.org/npmdoc/node-npmdoc-st)",
+    "description": "#### basic api documentation for  [st (v1.2.0)](https://github.com/isaacs/st#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-st.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-st) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-st.svg)](https://travis-ci.org/npmdoc/node-npmdoc-st)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "st": "*",

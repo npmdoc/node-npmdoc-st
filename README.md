@@ -1,4 +1,7 @@
-# api documentation for  [st (v1.2.0)](https://github.com/isaacs/st#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-st.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-st) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-st.svg)](https://travis-ci.org/npmdoc/node-npmdoc-st)
+# npmdoc-st
+
+#### basic api documentation for  [st (v1.2.0)](https://github.com/isaacs/st#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-st.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-st) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-st.svg)](https://travis-ci.org/npmdoc/node-npmdoc-st)
+
 #### A module for serving static files.  Does etags, caching, etc.
 
 [![NPM](https://nodei.co/npm/st.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/st)
